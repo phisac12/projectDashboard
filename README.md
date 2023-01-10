@@ -1,5 +1,5 @@
-#Projeto desenvolvido em Flutter
-#Basicamente este projeto é uma aplicação que conta com:
+## Projeto desenvolvido em Flutter
+# Basicamente este projeto é uma aplicação que conta com:
   - Tela de cadastro com integração via firebase
   - Tela de login
   - validações
